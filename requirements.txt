@@ -1,6 +1,4 @@
-** Libraries Used In this Project **
-
-streamlit 
+streamlit
 numpy
 pandas
 matplotlib
